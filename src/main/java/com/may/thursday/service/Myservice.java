@@ -7,5 +7,6 @@ public class Myservice {
 	public void method2()
 	{
 		System.out.println("method2");
+		System.out.println("Additional method2");
 	}
 }
